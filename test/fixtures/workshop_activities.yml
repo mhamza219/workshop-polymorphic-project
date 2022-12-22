@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  activity_name: MyString
+  content: one
+  poll: one
+  breakout: one
+  discussion: one
+
+two:
+  activity_name: MyString
+  content: two
+  poll: two
+  breakout: two
+  discussion: two
